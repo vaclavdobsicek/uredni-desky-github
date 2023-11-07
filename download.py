@@ -9,7 +9,8 @@ import sys
 # URL adresy úředních desek
 gazettes = {
     "Test": "https://raw.githubusercontent.com/michalskop/uredni-deska-test/main/uredni-deska-test.json",
-    "Kadaň": "https://www.mesto-kadan.cz/1ad1f16beff952576ae7ddd76a91e163"
+    "Kadaň": "https://www.mesto-kadan.cz/1ad1f16beff952576ae7ddd76a91e163",
+    "Luhačovice": "https://portal.luhacovice.eu:2443/wab/eud/ODExportData.action",
 }
 
 # Download gazettes and save them
